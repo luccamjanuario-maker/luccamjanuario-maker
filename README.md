@@ -13,8 +13,8 @@
 
 - Passei no teste do cambridge com a nota **2B**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3>https://www.linkedin.com/in/lucca-januario-a9b9ab40b/
+<p align="left"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
